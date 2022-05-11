@@ -10,7 +10,9 @@ fun main(args: Array<String>) {
     val game = Game()
     while (!startOver) {
         game.start()
-        showCard(game.dealerCards, Participant.DEALER)
+        println("Dealer drawn:")
+        println("*DEALER FIRST CARD HIDDEN*")
+        println("${game.dealerCards[1].cardType} ${game.dealerCards[1].faceCard}  ${game.dealerCards[1].value}")
         println()
         showCard(game.playerCards, Participant.PLAYER)
         println()

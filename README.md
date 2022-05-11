@@ -10,7 +10,9 @@ Pre-requisites:
 
 Steps: 
 1. Clone the project
+
     git clone https://github.com/PositiveCode/kotlin-blackjack.git 
+    
 2. Open IntelliJ IDE.
 3. Import the project. 
 4. Let IntelliJ IDE build the project (might take up to 5 minutes or more - depending on your machine). 

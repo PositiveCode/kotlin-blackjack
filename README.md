@@ -19,9 +19,11 @@ Steps:
 5. Run Main.kt as these steps: https://kotlinlang.org/docs/jvm-get-started.html#run-the-application
 
 Gameplay: 
+
 Just follow the steps on the console - whoever blackjacks win! 
 
 Unit tests: 
+
 Should you only require to check the logic or test the game functions - head on to GameTest.kt file. 
 to run a test, refer to this implementation: https://kotlinlang.org/docs/jvm-test-using-junit.html#run-a-test
 
